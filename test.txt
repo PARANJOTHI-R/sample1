@@ -1,1 +1,1 @@
-sample editor.txt
+origin file that is created on the instance of repository creation.
